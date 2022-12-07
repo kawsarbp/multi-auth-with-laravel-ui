@@ -1,0 +1,5 @@
+1. composer require laravel/ui
+2. php artisan ui bootstrap --auth
+3. npm install && npm run dev/build
+4. https://youtube.com/playlist?list=PLjsp2uDzfb31Om4z53ziQUNkXfY5iEE74
+
